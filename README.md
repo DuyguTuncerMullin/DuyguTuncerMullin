@@ -4,7 +4,7 @@
 
 - 👋 Let's meet - I have recently graduated from a coding bootcamp @Spiced Academy
 - 👀 I’m currently looking for an inspiring workplace where I can learn - explore - collaborate every day
-- 🌱 I’m learning more about TypeScript
+- 🌱 I’m learning more about TypeScript and ReScript
 - 🚵 Ask me about mountain biking and craft beer
 - 📬 Feel free to reach out to me! 
 
