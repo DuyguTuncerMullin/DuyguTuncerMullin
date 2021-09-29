@@ -11,6 +11,8 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duygu-tuncer-7b391692/)
 &nbsp;
 
+duygu_tuncer1@hotmail.com
+
 ---
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DuyguTuncer&theme=merko&layout=compact)](https://git.io/streak-stats)
