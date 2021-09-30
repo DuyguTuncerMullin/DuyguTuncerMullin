@@ -13,8 +13,6 @@
 
 ---
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DuyguTuncer&theme=merko&layout=compact)](https://git.io/streak-stats)
-
 ---
 
 Technologies and tools:
