@@ -1,6 +1,6 @@
 ## Hi there, I am Duygu
 
-### I am a Full Stack Engineer with a special interest for React.js and TypeScript.
+### I am a Full Stack Engineer with a special interest for React.js, Node.js and TypeScript.
 
 - 👋 Let's meet - I have recently graduated from a coding bootcamp @Spiced Academy
 - 👀 I’m currently looking for an inspiring workplace where I can learn - explore - collaborate every day
