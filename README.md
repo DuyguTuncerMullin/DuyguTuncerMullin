@@ -1,7 +1,5 @@
 ## Hi there, I am Duygu
 
-### I am a Full Stack Engineer with a special interest for React.js, Node.js and TypeScript.
-
 - 👋 Let's meet - I am a Spicedlings @Spiced Academy and am currently working at Idealo internet GmbH.
 - 🌱 I’m learning more about TypeScript, Next.js and RESTful APIs.
 - 🚵 Ask me about mountain biking and craft beer
