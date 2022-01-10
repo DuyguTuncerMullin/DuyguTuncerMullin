@@ -2,8 +2,8 @@
 
 ### I am a Full Stack Engineer with a special interest for React.js, Node.js and TypeScript.
 
-- 👋 Let's meet - I have recently graduated from a coding bootcamp @Spiced Academy
-- 🌱 I’m currently learning more about TypeScript and Next.js
+- 👋 Let's meet - I am a Spicedlings @Spiced Academy and am currently working at Idealo internet GmbH.
+- 🌱 I’m learning more about TypeScript, Next.js and RESTful APIs.
 - 🚵 Ask me about mountain biking and craft beer
 - 📬 Feel free to reach out to me! 
 
