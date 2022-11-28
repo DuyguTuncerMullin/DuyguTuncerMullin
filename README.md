@@ -1,7 +1,6 @@
 ## Hi there, I am Duygu
 
-- 👋 Let's meet - I am a Spicedlings @Spiced Academy and am currently working at Idealo internet GmbH.
-- 🌱 I’m learning more about GraphQL, MongoDB and RESTful APIs.
+- 👋 Let's meet - I work @idealo.
 - 🚵 Ask me about mountain biking and craft beer
 - 📬 Feel free to reach out to me! 
 
