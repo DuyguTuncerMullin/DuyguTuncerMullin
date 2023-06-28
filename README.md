@@ -4,6 +4,7 @@
 - 🚵 Ask me about mountain biking and craft beer
 - 📬 Feel free to reach out to me! 
 
+
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duygu-tuncer-7b391692/)
 &nbsp;
 
