@@ -1,15 +1,3 @@
-## Hi there, I am Duygu
-
-- 👋 Let's meet - I work @idealo.
-- 🚵 Ask me about mountain biking and craft beer
-- 📬 Feel free to reach out to me!
-
-
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/duygu-tuncer-7b391692/)
-&nbsp;
-
----
-
 Technologies and tools:
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
